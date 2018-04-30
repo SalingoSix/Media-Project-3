@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\sphelper.h(1319): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\sysinfoapi.h(436): note: see declaration of 'GetVersionExA'
+c:\users\alexm\documents\game development - advanced programming 2017\media fundamentals\media_project_03\media_project_03\main.cpp(474): warning C4129: 'M': unrecognized character escape sequence
+c:\users\alexm\documents\game development - advanced programming 2017\media fundamentals\media_project_03\media_project_03\main.cpp(474): warning C4129: 'p': unrecognized character escape sequence
+  Media_Project_03.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Media Fundamentals\Media_Project_03\Debug\Media_Project_03.exe
+  Media_Project_03.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Media Fundamentals\Media_Project_03\Debug\Media_Project_03.pdb (Partial PDB)
